@@ -1,2 +1,0 @@
-# Wixi-iOS
-CatalinaLabs
